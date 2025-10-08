@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Google",
+    "location": "Hyderabad, India",
+    "industry": "Technology",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.pZbJmFNzl-z_-TxX-MPhzwHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 2,
+    "name": "Microsoft",
+    "location": "Hyderabad, India",
+    "industry": "Technology",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.b8uWRpBMn2umg8BPVWBqqAHaFj?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 3,
+    "name": "Apple",
+    "location": "Bengaluru, India",
+    "industry": "Technology",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.5aeixJLHl-MF2hrXSLNYDQHaEJ?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 4,
+    "name": "Amazon",
+    "location": "Bengaluru, India",
+    "industry": "E-commerce",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.GZeHfxTq-yDS9dGlGt455AHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 5,
+    "name": "Meta (Facebook)",
+    "location": "Gurugram, India",
+    "industry": "Social Media",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.meectmTmZGo-2LyQOfEWYwHaEK?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 6,
+    "name": "Tesla",
+    "location": "Pune, India",
+    "industry": "Automotive",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.lESh-JtHLJOmjtsD271LCQHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 7,
+    "name": "Netflix",
+    "location": "Mumbai, India",
+    "industry": "Entertainment",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.pY3_U5ZWGMO_bx07Y9PSWgHaFI?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 8,
+    "name": "Intel",
+    "location": "Bengaluru, India",
+    "industry": "Semiconductor",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.cZvfsxjaPypMfWygTct75gHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 9,
+    "name": "IBM",
+    "location": "Noida, India",
+    "industry": "Technology",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.Avlddp45JkTvrbNZGihGJgHaE6?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 10,
+    "name": "Paytm",
+    "location": "Noida, India",
+    "industry": "Fintech",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.OEoRSpu-jY2jte7RZMEE8wHaEo?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 11,
+    "name": "Infosys",
+    "location": "Bengaluru, India",
+    "industry": "IT Services",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.5I_QRPTys0fhkLD9Bp3hWgHaDt?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 12,
+    "name": "TCS",
+    "location": "Mumbai, India",
+    "industry": "IT Services",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.yNYePID1B44z9O3fsSrK9wHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 13,
+    "name": "Wipro",
+    "location": "Bengaluru, India",
+    "industry": "IT Services",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.d6pc5eQKopcIyfEg3x8zUgHaFj?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 14,
+    "name": "Tech Mahindra",
+    "location": "Hyderabad, India",
+    "industry": "IT Services",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.telomq_kyr_YO0_S4Vz3WgAAAA?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 15,
+    "name": "Cognizant",
+    "location": "Chennai, India",
+    "industry": "IT Services",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.tnIIHiPAanUejMftDHa7dAHaEK?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 16,
+    "name": "HCL Technologies",
+    "location": "Noida, India",
+    "industry": "IT Services",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.qC6zlZzqhhPgfJ-vMjh7zwAAAA?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 17,
+    "name": "Capgemini",
+    "location": "Pune, India",
+    "industry": "Consulting",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.4vV5ZXjOZmuwgEa2Su7DXQHaEK?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 18,
+    "name": "Deloitte",
+    "location": "Hyderabad, India",
+    "industry": "Consulting",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.xQisa0OXcBtMdfBA7Z5obQHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 19,
+    "name": "Accenture",
+    "location": "Gurugram, India",
+    "industry": "Consulting",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.oqiVxx0weNs0eIKFey4GEwHaE7?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 20,
+    "name": "EY (Ernst & Young)",
+    "location": "Mumbai, India",
+    "industry": "Consulting",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.VAYb5pCBqAwJnanry8mUvQHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 21,
+    "name": "KPMG",
+    "location": "Delhi, India",
+    "industry": "Consulting",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.jk5oojaMb9NdFNAy7h750wHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 22,
+    "name": "Flipkart",
+    "location": "Bengaluru, India",
+    "industry": "E-commerce",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.7Rm7AzeP6z4RQj4JbG3XIgHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 23,
+    "name": "Swiggy",
+    "location": "Bengaluru, India",
+    "industry": "Food Delivery",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.zHvQqPUV8KbTpQyn04nWqgHaFj?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 24,
+    "name": "Zomato",
+    "location": "Gurugram, India",
+    "industry": "Food Delivery",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.DZBItFZzt2htekKA5Ax_uAHaE-?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 25,
+    "name": "Ola Cabs",
+    "location": "Bengaluru, India",
+    "industry": "Transport",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.qpbK2XeTX5-ul_7pKmR5IgHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 26,
+    "name": "Uber India",
+    "location": "Delhi, India",
+    "industry": "Transport",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.O_N_zgu_7zF6GkxLQLLJugHaE8?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 27,
+    "name": "Byju's",
+    "location": "Bengaluru, India",
+    "industry": "Education",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.6t1FCIdmKDWDI_5LNZPSMAHaEF?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 28,
+    "name": "Unacademy",
+    "location": "Bengaluru, India",
+    "industry": "Education",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.p1OFMeDKGd8tXiuymTlLvgHaEK?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 29,
+    "name": "PhonePe",
+    "location": "Bengaluru, India",
+    "industry": "Fintech",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.b6PSidrrFIawzNN02GoVBgHaEO?pid=Api&P=0&h=220"
+  },
+  {
+    "id": 30,
+    "name": "Razorpay",
+    "location": "Bengaluru, India",
+    "industry": "Fintech",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.jNYAZ7yXn2va-aZn9WVzFQHaEK?pid=Api&P=0&h=220"
+  }
+]
