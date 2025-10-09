@@ -12,11 +12,11 @@ export default function CompanyCard({ company }) {
                 borderRadius: 3,
                 boxShadow: 3,
                 transition: "transform 0.3s, box-shadow 0.3s",
+                backgroundColor: "#D7DBFF",
                 "&:hover": {
                     boxShadow: 6,
                     transform: "translateY(-5px)",
-                },
-                backgroundColor: "#f9f9f9",
+                }
             }}
         >
             {/* Image container */}
